@@ -17,7 +17,6 @@ namespace cw1
             
             using HttpClient httpClient = new HttpClient();
             var response = await httpClient.GetAsync(uriResult);
-            Console.WriteLine(uriResult);
             if (response.StatusCode == HttpStatusCode.OK)
             {
                 string content = await response.Content.ReadAsStringAsync();
@@ -26,10 +25,11 @@ namespace cw1
                 HashSet<string> hashSet = new HashSet<string>();
                 foreach (object m in matches) hashSet.Add(m.ToString());
                 foreach (object n in hashSet) Console.WriteLine(n);
-                //Console.WriteLine(content);
+                if (hashSet.Count==0) Console.WriteLine("Nie znaleziono adresów email"); //dodatkowe-wymagania
             }
-            else throw new Exception("Error in getting page content.");
-         
+            else throw new Exception("Błąd w czasie pobierania strony"); //dodatkowe-wymagania
+
+
         }
     }
 }
