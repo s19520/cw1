@@ -1,0 +1,13 @@
+C:\Users\Klaudia\source\repos\cw1\cw1\bin\Debug\netcoreapp3.1\cw1.exe
+C:\Users\Klaudia\source\repos\cw1\cw1\bin\Debug\netcoreapp3.1\cw1.deps.json
+C:\Users\Klaudia\source\repos\cw1\cw1\bin\Debug\netcoreapp3.1\cw1.runtimeconfig.json
+C:\Users\Klaudia\source\repos\cw1\cw1\bin\Debug\netcoreapp3.1\cw1.runtimeconfig.dev.json
+C:\Users\Klaudia\source\repos\cw1\cw1\bin\Debug\netcoreapp3.1\cw1.dll
+C:\Users\Klaudia\source\repos\cw1\cw1\bin\Debug\netcoreapp3.1\cw1.pdb
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.csprojAssemblyReference.cache
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.AssemblyInfoInputs.cache
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.AssemblyInfo.cs
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.dll
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.pdb
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.genruntimeconfig.cache
+C:\Users\Klaudia\source\repos\cw1\cw1\obj\Debug\netcoreapp3.1\cw1.csproj.CoreCompileInputs.cache
